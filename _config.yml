@@ -12,8 +12,8 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Avinash Paliwal # Be used at blog posts' author.
-  first_name: Avinash Paliwal  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  first_name: Avinash  # Be used at index page about me section.
+  last_name: Paliwal  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: avinashpaliwal  # Leave blank if you don't have now
   linkedin_id: AvinashPaliwal # Leave blank if you don't have now
@@ -22,11 +22,11 @@ author:  # change following line to your infomation.
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: icon-csharp
     - name: icon-python
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: icon-perl
+    - name: icon-c
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment
