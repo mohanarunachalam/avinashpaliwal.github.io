@@ -5,7 +5,7 @@
   i18n: avinashpaliwal
   gh_user: avinashpaliwal
   repo: Super-SloMo
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/bubble_pop.jpg
   desc: Implementation of Super SloMo - High Quality Estimation of Multiple Intermediate Frames for Video Interpolation by Jiang et al.
 
 - name: Google

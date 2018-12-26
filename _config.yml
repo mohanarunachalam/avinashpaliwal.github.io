@@ -27,7 +27,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-perl
     - name: icon-c
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Computer Engineering Masters Student at Texas A&M University.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -47,11 +47,11 @@ author:  # change following line to your infomation.
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
