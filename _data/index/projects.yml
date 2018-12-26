@@ -6,10 +6,10 @@
   gh_user: avinashpaliwal
   repo: Super-SloMo
   img: /static/assets/img/landing/bubble_pop.jpg
-  desc: Implementation of Super SloMo - High Quality Estimation of Multiple Intermediate Frames for Video Interpolation by Jiang et al.
+  desc: PyTorch Implementation of Super SloMo - High Quality Estimation of Multiple Intermediate Frames for Video Interpolation by Jiang et al.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Depth from Video
+  i18n: d4v
+  #url: https://google.com
+  img: /static/assets/img/landing/depth_from_video.jpg
+  desc: Currently working on predicting depth from frames in a monocular video.

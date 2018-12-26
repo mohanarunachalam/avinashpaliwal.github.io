@@ -4,7 +4,7 @@
     detail: Bajaj Auto Ltd.
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked in the Embedded Software Team of Bajaj Auto Ltd.'s R&D. My work was primarily focused on developing modules for the first in-house embedded operaing system. I also developed tools for application-EOS integration and push the level of automation.
     i18n: company_a_desc
   date:
     detail: July 2016 - July 2018
