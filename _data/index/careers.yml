@@ -1,2 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Bajaj Auto Ltd.
+    i18n: company_a
+  desc:
+    detail: I worked in the Embedded Software Team of Bajaj Auto Ltd.'s R&D. My work was primarily focused on developing modules for the first in-house embedded operaing system. I also developed tools for application-EOS integration and push the level of automation.
+    i18n: company_a_desc
+  date:
+    detail: July 2016 - July 2018
+    i18n: company_a_date
+  job:
+    detail: Senior Engineer
+    i18n: company_a_job
+  icon: fa-code
+
+  - name:
+    detail: Bharat Electronics Ltd.
+    i18n: company_b
+  desc:
+    detail: I worked on the design of a remotely programmable power supply with PID control as part of an ongoing project.
+    i18n: company_b_desc
+  date:
+    detail: May 2015 - June 2015
+    i18n: company_b_date
+  job:
+    detail: Summer Intern
+    i18n: company_b_job
+  icon: fa-code
