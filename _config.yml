@@ -17,9 +17,9 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: avinashpaliwal  # Leave blank if you don't have now
   linkedin_id: AvinashPaliwal # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
+  facebook_username: avinashplwl  # Leave blank if you don't have now
   email: avinashplwl@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1e0keAhr1M4caKHHLS2KnwzP5wvDXUrNt/view?usp=sharing  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-csharp
