@@ -14,7 +14,7 @@
     i18n: company_a_job
   icon: fa-code
 
-  - name:
+- name:
     detail: Bharat Electronics Ltd.
     i18n: company_b
   desc:
