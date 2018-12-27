@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Avinash Paliwal # Be used at blog posts' author.
   first_name: Avinash  # Be used at index page about me section.
   last_name: Paliwal  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: avinashpaliwal  # Leave blank if you don't have now
   linkedin_id: AvinashPaliwal # Leave blank if you don't have now
   facebook_username: jiakunnj  # Leave blank if you don't have now
@@ -39,11 +39,11 @@ ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get
   id: UA-131406202-1
 
 ## google optimize
-##go:
+go:
   # id:
 
 ## growingIO
-#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
